@@ -2,7 +2,7 @@
 title: test title
 description: test description
 url: "https://test.com"
-baseurl: ""
+baseurl: "/uno-web"
 
 # Build settings
 markdown: kramdown
