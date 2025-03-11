@@ -41,6 +41,10 @@
     img {
         height: 3.365rem;
         width: auto;
+
+        @media (max-width: 768px) {
+            height: 2.5rem;
+        }
     }
 }
 
