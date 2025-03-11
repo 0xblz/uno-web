@@ -1,18 +1,26 @@
 // Typography
+body {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+}
 h1 {
-    font-size: 2.2rem;
+    font-size: 30px;
+    font-weight: 700;
 }
 
 h2 {
-    font-size: 1.3rem;
+    font-size: 18px;
+    font-weight: 500;
 }
 
 h3 {
-    font-size: 1.1rem;
+    font-size: 14px;
+    font-weight: 700;
 }
 
 p {
     font-size: 1rem;
+    font-weight: 500;
 }
 
 a {
@@ -20,11 +28,11 @@ a {
     color: var(--tertiary-color);
     text-decoration: none;
     font-weight: 700;
-    color: white;
+    color: var(--slate-900);
     
     &:hover,
     &:focus,
     &:active {
-        color: var(--secondary-color);
+        color: var(--slate-900);
     }
 }
