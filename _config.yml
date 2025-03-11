@@ -1,7 +1,7 @@
 # Site settings
 title: test title
 description: test description
-url: "https://test.com"
+url: "https://0xblz.github.io/uno-web/"
 baseurl: "/uno-web"
 
 # Build settings
