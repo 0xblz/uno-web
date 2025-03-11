@@ -15,7 +15,7 @@ h2 {
 
 h3 {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 p {
@@ -28,11 +28,11 @@ a {
     color: var(--tertiary-color);
     text-decoration: none;
     font-weight: 700;
-    color: white;
+    color: var(--sky-900);
     
     &:hover,
     &:focus,
     &:active {
-        color: var(--sky-100);
+        color: var(--sky-700);
     }
 }
